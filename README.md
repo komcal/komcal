@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=komcal)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=komcal&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komcal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
